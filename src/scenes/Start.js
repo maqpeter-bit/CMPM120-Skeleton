@@ -5,8 +5,8 @@ export class Start extends Phaser.Scene {
     }
 
     preload() {
-        this.load.image('background', 'assets/bg.png');
-
+        this.load.image('background', 'assets/tile_0042.png');
+       
     }
 
     create() {
